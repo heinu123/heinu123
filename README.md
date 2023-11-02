@@ -2,7 +2,7 @@
 
 **我的博客:**
 
-[黑弩の博客](https://www.heinu.cc) 
+[博客](https://www.heinu.cc) 
 
 # 我会的程序语言
 [![](https://img.shields.io/badge/-C-black?logo=c&style=flat-square&logoColor=ffffff)](http://cppmicroservices.org/)
